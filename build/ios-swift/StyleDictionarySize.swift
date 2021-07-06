@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 01 Jul 2021 14:54:30 GMT
+// Generated on Tue, 06 Jul 2021 22:00:34 GMT
 
 
 import UIKit
@@ -83,10 +83,10 @@ public enum StyleDictionarySize {
     public static let mediumExtendedItalicParagraphSpacing = 0
     public static let mixedBottom = 30
     public static let mixedLeft = 20
-    public static let mixedRadiiBottomLeft = 0
-    public static let mixedRadiiBottomRight = 3.5
-    public static let mixedRadiiTopLeft = 1
-    public static let mixedRadiiTopRight = 2
+    public static let mixedRadiiBottomLeft = 20
+    public static let mixedRadiiBottomRight = 15
+    public static let mixedRadiiTopLeft = 5.5
+    public static let mixedRadiiTopRight = 10
     public static let mixedRight = 20
     public static let mixedSmoothing = 0
     public static let mixedTop = 10
@@ -140,12 +140,6 @@ public enum StyleDictionarySize {
     public static let pushEasingFunctionY1 = -0.05000000074505806
     public static let pushEasingFunctionY2 = -0.5
     public static let rect = 32
-    public static let sameWithSmoothingRadiiBottomLeft = 5
-    public static let sameWithSmoothingRadiiBottomRight = 5
-    public static let sameWithSmoothingRadiiTopLeft = 5
-    public static let sameWithSmoothingRadiiTopRight = 5
-    public static let sameWithSmoothingRadius = 5
-    public static let sameWithSmoothingSmoothing = 0.65
     public static let shapeInComponent = 32 /* Should use 32px not 20 from inside shape */
     public static let singleCount = 5
     public static let singleGutterSize = 20
@@ -182,10 +176,6 @@ public enum StyleDictionarySize {
     public static let topLeft = 0
     public static let topRight = 0
     public static let topTop = 10
-    public static let unsupportedGradientBordersStrokeMiterLimit = 4
-    public static let unsupportedGradientBordersStrokeWeight = 1
-    public static let unsupportedImageBordersStrokeMiterLimit = 4
-    public static let unsupportedImageBordersStrokeWeight = 1
     public static let unsupportedMultipleBordersStrokeMiterLimit = 4
     public static let unsupportedMultipleBordersStrokeWeight = 1
 }

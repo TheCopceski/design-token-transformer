@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 01 Jul 2021 14:54:30 GMT
+// Generated on Tue, 06 Jul 2021 22:00:34 GMT
 
 
 #import "StyleDictionarySize.h"
@@ -38,41 +38,31 @@ float const SpacingTopTop = 10;
 float const SpacingTopRight = 0;
 float const SpacingTopBottom = 0;
 float const SpacingTopLeft = 0;
-float const BordersUnsupportedGradientBordersStrokeMiterLimit = 4;
-float const BordersUnsupportedGradientBordersStrokeWeight = 1;
 float const BordersUnsupportedMultipleBordersStrokeMiterLimit = 4;
 float const BordersUnsupportedMultipleBordersStrokeWeight = 1;
-float const BordersUnsupportedImageBordersStrokeMiterLimit = 4;
-float const BordersUnsupportedImageBordersStrokeWeight = 1;
 float const BordersSingleStrokeMiterLimit = 4;
 float const BordersSingleStrokeWeight = 1;
 float const BordersSingleStyleStrokeMiterLimit = 4;
 float const BordersSingleStyleStrokeWeight = 1;
 float const BordersDashedOutsideStrokeMiterLimit = 4;
 float const BordersDashedOutsideStrokeWeight = 1;
-float const Radii5Radius = 5;
-float const Radii5RadiiTopLeft = 5;
-float const Radii5RadiiTopRight = 5;
-float const Radii5RadiiBottomRight = 5;
-float const Radii5RadiiBottomLeft = 5;
-float const Radii5Smoothing = 0;
+float const Radius5RadiiTopLeft = 5;
+float const Radius5RadiiTopRight = 5;
+float const Radius5RadiiBottomRight = 5;
+float const Radius5RadiiBottomLeft = 5;
+float const Radius5Smoothing = 0;
+float const Radius5Radius = 5;
 float const RadiiSmoothingRadius = 10;
 float const RadiiSmoothingRadiiTopLeft = 10;
 float const RadiiSmoothingRadiiTopRight = 10;
 float const RadiiSmoothingRadiiBottomRight = 10;
 float const RadiiSmoothingRadiiBottomLeft = 10;
 float const RadiiSmoothingSmoothing = 0.75;
-float const RadiiMixedRadiiTopLeft = 1;
-float const RadiiMixedRadiiTopRight = 2;
-float const RadiiMixedRadiiBottomRight = 3.5;
-float const RadiiMixedRadiiBottomLeft = 0;
+float const RadiiMixedRadiiTopLeft = 5.5;
+float const RadiiMixedRadiiTopRight = 10;
+float const RadiiMixedRadiiBottomRight = 15;
+float const RadiiMixedRadiiBottomLeft = 20;
 float const RadiiMixedSmoothing = 0;
-float const RadiiSameWithSmoothingRadius = 5;
-float const RadiiSameWithSmoothingRadiiTopLeft = 5;
-float const RadiiSameWithSmoothingRadiiTopRight = 5;
-float const RadiiSameWithSmoothingRadiiBottomRight = 5;
-float const RadiiSameWithSmoothingRadiiBottomLeft = 5;
-float const RadiiSameWithSmoothingSmoothing = 0.65;
 float const MotionMoveInDuration = 0.5;
 float const MotionMoveInEasingFunctionX1 = 0.41999998688697815;
 float const MotionMoveInEasingFunctionX2 = 1;

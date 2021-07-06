@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 01 Jul 2021 14:54:30 GMT
+// Generated on Tue, 06 Jul 2021 22:00:34 GMT
 
 
 import UIKit
@@ -103,18 +103,6 @@ public class StyleDictionary {
     public static let bordersSingleStyleStrokeJoin = miter
     public static let bordersSingleStyleStrokeMiterLimit = 4
     public static let bordersSingleStyleStrokeWeight = 1
-    public static let bordersUnsupportedGradientBordersDashPattern = 
-    public static let bordersUnsupportedGradientBordersStrokeAlign = inside
-    public static let bordersUnsupportedGradientBordersStrokeCap = none
-    public static let bordersUnsupportedGradientBordersStrokeJoin = miter
-    public static let bordersUnsupportedGradientBordersStrokeMiterLimit = 4
-    public static let bordersUnsupportedGradientBordersStrokeWeight = 1
-    public static let bordersUnsupportedImageBordersDashPattern = 
-    public static let bordersUnsupportedImageBordersStrokeAlign = inside
-    public static let bordersUnsupportedImageBordersStrokeCap = none
-    public static let bordersUnsupportedImageBordersStrokeJoin = miter
-    public static let bordersUnsupportedImageBordersStrokeMiterLimit = 4
-    public static let bordersUnsupportedImageBordersStrokeWeight = 1
     public static let bordersUnsupportedMultipleBordersDashPattern = 5,10
     public static let bordersUnsupportedMultipleBordersStroke = rgba(255, 230, 0, 1)
     public static let bordersUnsupportedMultipleBordersStrokeAlign = inside
@@ -268,26 +256,12 @@ public class StyleDictionary {
     public static let motionSmartEasingFunctionY1 = 0
     public static let motionSmartEasingFunctionY2 = 1
     public static let motionSmartType = smart_animate
-    public static let radii5RadiiBottomLeft = 5
-    public static let radii5RadiiBottomRight = 5
-    public static let radii5RadiiTopLeft = 5
-    public static let radii5RadiiTopRight = 5
-    public static let radii5Radius = 5
-    public static let radii5RadiusType = single
-    public static let radii5Smoothing = 0
-    public static let radiiMixedRadiiBottomLeft = 0
-    public static let radiiMixedRadiiBottomRight = 3.5
-    public static let radiiMixedRadiiTopLeft = 1
-    public static let radiiMixedRadiiTopRight = 2
+    public static let radiiMixedRadiiBottomLeft = 20
+    public static let radiiMixedRadiiBottomRight = 15
+    public static let radiiMixedRadiiTopLeft = 5.5
+    public static let radiiMixedRadiiTopRight = 10
     public static let radiiMixedRadiusType = mixed
     public static let radiiMixedSmoothing = 0
-    public static let radiiSameWithSmoothingRadiiBottomLeft = 5
-    public static let radiiSameWithSmoothingRadiiBottomRight = 5
-    public static let radiiSameWithSmoothingRadiiTopLeft = 5
-    public static let radiiSameWithSmoothingRadiiTopRight = 5
-    public static let radiiSameWithSmoothingRadius = 5
-    public static let radiiSameWithSmoothingRadiusType = single
-    public static let radiiSameWithSmoothingSmoothing = 0.65
     public static let radiiSmoothingRadiiBottomLeft = 10
     public static let radiiSmoothingRadiiBottomRight = 10
     public static let radiiSmoothingRadiiTopLeft = 10
@@ -295,6 +269,13 @@ public class StyleDictionary {
     public static let radiiSmoothingRadius = 10
     public static let radiiSmoothingRadiusType = single
     public static let radiiSmoothingSmoothing = 0.75
+    public static let radius5RadiiBottomLeft = 5
+    public static let radius5RadiiBottomRight = 5
+    public static let radius5RadiiTopLeft = 5
+    public static let radius5RadiiTopRight = 5
+    public static let radius5Radius = 5
+    public static let radius5RadiusType = single
+    public static let radius5Smoothing = 0
     public static let sizes32 = 32.72 /* 32.72px spacer component */
     public static let sizes40 = 40
     public static let sizes60 = 60

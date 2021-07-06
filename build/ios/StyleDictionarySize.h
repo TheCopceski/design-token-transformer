@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 01 Jul 2021 14:54:30 GMT
+// Generated on Tue, 06 Jul 2021 22:00:34 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -37,24 +37,20 @@ extern float const SpacingTopTop;
 extern float const SpacingTopRight;
 extern float const SpacingTopBottom;
 extern float const SpacingTopLeft;
-extern float const BordersUnsupportedGradientBordersStrokeMiterLimit;
-extern float const BordersUnsupportedGradientBordersStrokeWeight;
 extern float const BordersUnsupportedMultipleBordersStrokeMiterLimit;
 extern float const BordersUnsupportedMultipleBordersStrokeWeight;
-extern float const BordersUnsupportedImageBordersStrokeMiterLimit;
-extern float const BordersUnsupportedImageBordersStrokeWeight;
 extern float const BordersSingleStrokeMiterLimit;
 extern float const BordersSingleStrokeWeight;
 extern float const BordersSingleStyleStrokeMiterLimit;
 extern float const BordersSingleStyleStrokeWeight;
 extern float const BordersDashedOutsideStrokeMiterLimit;
 extern float const BordersDashedOutsideStrokeWeight;
-extern float const Radii5Radius;
-extern float const Radii5RadiiTopLeft;
-extern float const Radii5RadiiTopRight;
-extern float const Radii5RadiiBottomRight;
-extern float const Radii5RadiiBottomLeft;
-extern float const Radii5Smoothing;
+extern float const Radius5RadiiTopLeft;
+extern float const Radius5RadiiTopRight;
+extern float const Radius5RadiiBottomRight;
+extern float const Radius5RadiiBottomLeft;
+extern float const Radius5Smoothing;
+extern float const Radius5Radius;
 extern float const RadiiSmoothingRadius;
 extern float const RadiiSmoothingRadiiTopLeft;
 extern float const RadiiSmoothingRadiiTopRight;
@@ -66,12 +62,6 @@ extern float const RadiiMixedRadiiTopRight;
 extern float const RadiiMixedRadiiBottomRight;
 extern float const RadiiMixedRadiiBottomLeft;
 extern float const RadiiMixedSmoothing;
-extern float const RadiiSameWithSmoothingRadius;
-extern float const RadiiSameWithSmoothingRadiiTopLeft;
-extern float const RadiiSameWithSmoothingRadiiTopRight;
-extern float const RadiiSameWithSmoothingRadiiBottomRight;
-extern float const RadiiSameWithSmoothingRadiiBottomLeft;
-extern float const RadiiSameWithSmoothingSmoothing;
 extern float const MotionMoveInDuration;
 extern float const MotionMoveInEasingFunctionX1;
 extern float const MotionMoveInEasingFunctionX2;

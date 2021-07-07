@@ -4,37 +4,39 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 06 Jul 2021 22:00:34 GMT
+// Generated on Wed, 07 Jul 2021 19:57:16 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-BordersUnsupportedMultipleBordersStroke,
-BordersSingleStroke,
-BordersSingleStyleStroke,
-BordersDashedOutsideStroke,
-ColorsMultipleFills0,
-ColorsMultipleFills1,
-ColorsSingleBlue,
-ColorsSpecialCharacters,
-ColorsSpecialCharactersNderung,
-GradientMultiple0Stops0Color,
-GradientMultiple0Stops1Color,
-GradientMultiple1Stops0Color,
-GradientMultiple1Stops1Color,
-GradientMultiple2Stops0Color,
-GradientMultiple2Stops1Color,
-GradientMultiple3Stops0Color,
-GradientMultiple3Stops1Color,
-GradientSingleWithMultipleColorStopsStops0Color,
-GradientSingleWithMultipleColorStopsStops1Color,
-GradientSingleWithMultipleColorStopsStops2Color,
-GradientSingleWithMultipleColorStopsStops3Color,
-EffectDropShadowSingleColor,
-EffectInnerShadowMultiple0Color,
-EffectInnerShadowMultiple1Color,
-EffectInnerShadowMultiple2Color
+AOPositivaENeutra,
+AOEMensagemNegativa,
+MensagemPositiva,
+AODesabilitadaPrimaria,
+AODesabilitadaSecundRia,
+TextoEIconePrimRios,
+TextoEIconeSecundRio,
+TagRejeitada,
+TagFinalizada,
+TagAjuste,
+TagRevisO,
+TagProgresso,
+TagArquivado,
+BackgroundPrimRio,
+BackgroundSecundRio,
+MarcaPrimRia,
+MarcaPrimRiaVariaO1,
+MarcaPrimRiaVariaO2,
+MarcaPrimRiaVariaO3,
+MarcaSecundRia,
+MarcaSecundRiaVariaO1,
+MarcaSecundRiaVariaO2,
+MarcaSecundRiaVariaO3,
+MarcaComplementar,
+MarcaComplementarVariaO1,
+MarcaComplementarVariaO2,
+MarcaComplementarVariaO3
 };
 
 @interface StyleDictionaryColor : NSObject
